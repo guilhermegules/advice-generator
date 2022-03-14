@@ -47,5 +47,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
+- axios - for http requests
 - TypeScript
